@@ -58,6 +58,13 @@ streamlit run app.py
 * Model Inference
 * Streamlit Deployment
 
+## Future Improvements
+
+- Data augmentation
+- Fine tuning deeper ResNet layers
+- Mobile deployment
+- Webcam support
+
 ## 👨‍💻 Developer
 
 Vansh Garg
