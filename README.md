@@ -6,6 +6,11 @@ A deep learning web application that classifies images as either Cats or Dogs us
 
 https://cat-dog-classifier-vanshgarg.streamlit.app/
 
+## Application Preview
+
+![App Screenshot](https://github.com/Vansh2639/Cat-Dog-Classifier/blob/main/Screenshot%202026-06-09%20014254.png?raw=true)
+![App Screenshot](https://github.com/Vansh2639/Cat-Dog-Classifier/blob/main/Screenshot%202026-06-09%20014611.png?raw=true)
+
 ## 📌 Features
 
 * Upload an image
@@ -53,10 +58,6 @@ streamlit run app.py
 * Model Inference
 * Streamlit Deployment
 
-## Application Preview
-
-![App Screenshot](https://github.com/Vansh2639/Cat-Dog-Classifier/blob/main/Screenshot%202026-06-09%20014254.png?raw=true)
-![App Screenshot](https://github.com/Vansh2639/Cat-Dog-Classifier/blob/main/Screenshot%202026-06-09%20014611.png?raw=true)
 ## 👨‍💻 Developer
 
 Vansh Garg
