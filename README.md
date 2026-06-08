@@ -56,7 +56,7 @@ streamlit run app.py
 ## Application Preview
 
 ![App Screenshot](https://github.com/Vansh2639/Cat-Dog-Classifier/blob/main/Screenshot%202026-06-09%20014254.png?raw=true)
-
+![App Screenshot](https://github.com/Vansh2639/Cat-Dog-Classifier/blob/main/Screenshot%202026-06-09%20014611.png?raw=true)
 ## 👨‍💻 Developer
 
 Vansh Garg
