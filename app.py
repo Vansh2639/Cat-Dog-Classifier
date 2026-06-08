@@ -13,6 +13,10 @@ st.set_page_config(
 
 st.sidebar.title("🐾 Cat vs Dog Classifier")
 
+st.warning(
+    "This model only recognizes Cats and Dogs. Other animals may produce incorrect predictions."
+)
+
 st.sidebar.markdown("""
 ### Model Information
 
